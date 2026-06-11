@@ -1,4 +1,4 @@
-# Olá, eu sou Antonio Arthur 👋
+# Olá, eu sou Antonio Arthur 
 
 Sou estudante de **Ciências Econômicas na UFPB** e atuo com análise de dados no **LEAP** — Laboratório de Economia Aplicada a Políticas Públicas.
 
