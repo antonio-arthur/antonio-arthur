@@ -43,8 +43,6 @@ Tenho interesse em transformar dados em informações úteis para pesquisa, gest
 
 ##  Atualmente
 
-Atualmente, desenvolvo pesquisas relacionadas à **acessibilidade espacial dos estabelecimentos de saúde no Brasil**, com foco na distribuição territorial dos serviços de saúde e em sua relação com as necessidades da população.
-
 Também venho desenvolvendo e mantendo pipelines de dados, com processamento e organização em camadas **Bronze, Silver e Gold**, utilizando principalmente **Python e R**.
 
 ---
