@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Antonio Arthur 👋
 
-<!--
-**antonio-arthur/antonio-arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Economia na UFPB
 
-Here are some ideas to get you started:
+ Analista de Dados Júnior no LEAP (Laboratório de Economia Aplicada a Políticas Públicas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tecnologias:
+- Python
+- R
+- SQL
+- PHP
+- Git/GitHub
+
+ Áreas de interesse:
+- Engenharia de Dados
+- Ciência de Dados
+- Geoprocessamento
+- Análise Espacial
+- Políticas Públicas Baseadas em Dados
+
+🏥 Experiência com bases:
+- CNES
+- SIH-SUS
+- SIM-SUS
+- SINASC
+- TISS
+- PNAD Contínua
+
+🌎 Atualmente desenvolvendo pesquisas sobre acessibilidade espacial dos estabelecimentos de saúde no Brasil.
+
+## Contato
+
+- LinkedIn: 
+- GitHub: https://github.com/antonio-arthur
